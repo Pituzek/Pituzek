@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pituzek
-- 👀 I’m interested in C#, SQL and Javescript
+- 👀 I’m interested in C#, SQL and Javascript
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: piotr.rac@gmail.com
