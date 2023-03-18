@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pituzek
 - 👀 I’m interested in C#, SQL and Javascript
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: piotr.rac@gmail.com
 
